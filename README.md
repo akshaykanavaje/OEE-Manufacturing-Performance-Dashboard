@@ -2,8 +2,10 @@
 
 This project implements a interactive Power BI dashboard to monitor and analyse Overall Equipment Effectiveness (OEE) across an 8-machine manufacturing plant. The solution covers equipment performance tracking, downtime classification, shift analysis, and machine-level diagnostics to support data-driven maintenance and operational decision-making.
 
-The dashboard is designed to be viewed interactively via Power BI Desktop (.pbix) or published online.
-Dashboard download link - https://drive.google.com/drive/folders/1JxTgUxB0wBhCpiheQREAR7Ew_kvvxeQA
+The dashboard is designed to be viewed interactively via Power BI Desktop or published online.
+
+Dashboard download link - 
+https://drive.google.com/drive/folders/1JxTgUxB0wBhCpiheQREAR7Ew_kvvxeQA
 ---
 
 # Business Context
