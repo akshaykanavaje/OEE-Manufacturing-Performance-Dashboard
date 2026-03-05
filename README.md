@@ -36,7 +36,7 @@ This represents a structured operational analytics problem with time-series, cat
 
 # Analytical Approach
 
-## 1. Data Preparation and Measure Design
+## Data Preparation and Measure Design
 
 - Imported raw CSV into Power BI and standardised data types in Power Query
 - Created a Weekday sort column to enforce correct Monday–Saturday ordering
@@ -45,7 +45,7 @@ This represents a structured operational analytics problem with time-series, cat
 
 Measure design preceded visual construction to ensure all calculations were reusable and filter-responsive across all four pages.
 
-## 2. Page 1 — Plant Overview
+## 1 — Plant Overview
 
 Designed to answer: *How is the plant performing overall and where are the biggest problems?*
 
@@ -58,7 +58,7 @@ Designed to answer: *How is the plant performing overall and where are the bigge
 
 
 
-## 3. Page 2 — Machine Deep Dive
+## 2 — Machine Deep Dive
 
 Designed to answer: *Why is a specific machine underperforming and when does it happen?*
 
@@ -72,7 +72,7 @@ Designed to answer: *Why is a specific machine underperforming and when does it 
 <img width="1291" height="720" alt="image" src="https://github.com/user-attachments/assets/14cc99b5-57f9-410d-95b1-2ed2847fcf8f" />
 
 
-## 4. Page 3 — Shift and Time Analysis
+## 3 — Shift and Time Analysis
 
 Designed to answer: *When do performance problems happen — which shift, which day, which month?*
 
@@ -85,7 +85,7 @@ Designed to answer: *When do performance problems happen — which shift, which 
 <img width="1292" height="728" alt="image" src="https://github.com/user-attachments/assets/252975d5-42e3-4706-9162-f716b65a6d93" />
 
 
-## 5. Page 4 — Downtime Analysis
+## 4 — Downtime Analysis
 
 Designed to answer: *How much time is the plant losing, why, and which machines are responsible?*
 
